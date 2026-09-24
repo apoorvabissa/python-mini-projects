@@ -1,40 +1,63 @@
 # 🐍 Python Mini Projects
 
-A collection of beginner-friendly Python projects created while learning Python fundamentals through the CodeWithHarry Python course.
+A collection of beginner-friendly Python projects built while learning and practicing Python programming fundamentals.
+
+These projects focus on applying concepts such as variables, conditionals, loops, functions, user input, and basic game logic.
 
 ## 📂 Projects
 
-### 1. Snake, Water & Gun
+### 1. 🎮 Snake, Water & Gun
 
-A command-line game where the player competes against the computer in Snake, Water & Gun.
+A simple command-line game based on the classic Rock-Paper-Scissors concept.
 
-**Concepts:**  
-`if/elif/else` · dictionaries · functions · user input · random module · game logic
+**Concepts practiced:**
 
-[View Project →](./Snake,%20water%20&%20Gun)
+* Conditional statements
+* User input
+* Random module
+* Loops
+* Functions
+* Basic game logic
+
+📁 **Project folder:** `snake-water-gun`
 
 ---
 
-### 2. The Perfect Guess
+### 2. 🎯 The Perfect Guess
 
-A number guessing game where the player tries to guess a randomly generated number between 1 and 100.
+A number-guessing game where the player tries to guess a randomly generated number.
 
-**Concepts:**  
-`while` loops · conditional statements · user input · type conversion · random module · counters
+**Concepts practiced:**
 
-[View Project →](./The%20Perfect%20Guess)
+* Variables and data types
+* User input
+* Conditional statements
+* Loops
+* Random module
+* Basic error handling
 
-## 🛠️ Technologies
+📁 **Project folder:** `perfect-guess`
 
-- Python 3
-- Python Standard Library
+---
+
+## 🛠️ Technologies Used
+
+* Python 3
+* Python Standard Library
 
 ## 🎯 Purpose
 
-These projects are part of my journey of learning Python programming and building small practical projects to strengthen my fundamentals.
+These projects were created as part of my journey to strengthen Python fundamentals through hands-on practice.
+
+More projects will be added as I continue learning and building with Python.
 
 ## 👩‍💻 Author
 
 **Apoorva Bissa**
 
-[GitHub](https://github.com/apoorvabissa) · [LinkedIn](https://www.linkedin.com/in/apoorvabissa/)
+* GitHub: [Apoorva Bissa](https://github.com/apoorvabissa)
+* LinkedIn: [Apoorva Bissa](https://www.linkedin.com/in/apoorvabissa/)
+
+---
+
+⭐ If you find these projects useful, feel free to explore the repository.
